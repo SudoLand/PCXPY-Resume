@@ -2,4 +2,4 @@
 
 :sparkles: Resume for PCXPY
 
-View at: https://resume.pcxpy.com
+View at https://resume.pcxpy.com
